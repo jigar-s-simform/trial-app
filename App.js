@@ -1,9 +1,9 @@
 import { StyleSheet, Text, View } from 'react-native';
-
+// comment added
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Hello this is Jigar Rajput !!</Text>  
+      <Text>Hello I AM Jigar Rajput !!</Text>  
     </View>
   );
 }
